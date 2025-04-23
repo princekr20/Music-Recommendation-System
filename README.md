@@ -32,7 +32,6 @@ To recommend songs based on the lyrical similarity of a given song. The user ent
 1. Make sure you have Python and required libraries installed.
 
 2. Install required packages:
----bash
 pip install -r requirements.txt
 
 3. Run the preprocessing script (only once):
